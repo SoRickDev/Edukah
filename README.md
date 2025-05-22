@@ -11,6 +11,7 @@ PIM - Curso Básico de Python para Iniciantes
 | Rafael Henrique Jubilato Batista     | H70CJG2 |
 | Rickson Tadeu Candido Pedreira      | H520BA0 |
 | Pedro H. dos Reis Cassiano da Silva | H765CC7 |
+| Pedro Santana França | R854BD3 |
 
 ---
 
@@ -41,6 +42,7 @@ Este sistema é uma aplicação web feita em **Python** utilizando o framework *
 | `Gabriel_conteudo.py`  | Gabriel       | Página de estudos com aulas, exercícios e execução de código |
 | `Pedromelo_provinha.py`| Pedro Melo    | Página da prova, coleta respostas e exibe resultados gráficos|
 | `PIM-1ºS-Documentação` | Letícia       | Responsável pela documentação completa do programa           |
+| `PIM-1ºS-Documentação` | Pedro Santana       | Responsável pela documentação completa do programa           |
 
 ---
 

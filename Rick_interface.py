@@ -1,7 +1,7 @@
 import streamlit as st
 from Rafa_login import registro_user, login_user
 from Gabriel_conteudo import pagina_estudos
-from Pedromelo_provinha import pagina_prova
+from Gustavo import pagina_prova
 
 # Controlador principal das páginas do app
 # Lida com login, cadastro, estudos e prova
